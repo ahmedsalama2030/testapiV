@@ -1,0 +1,1564 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "reports/ActiveInactiveCustomersReport.duhabu3am0.rdl",
+      "AssetFile": "reports/ActiveInactiveCustomersReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K7QdvgkJazzDARDBsRgRqcDLAcRTsIbiRkykUkRH3mo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 23:08:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "duhabu3am0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K7QdvgkJazzDARDBsRgRqcDLAcRTsIbiRkykUkRH3mo="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/ActiveInactiveCustomersReport.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/ActiveInactiveCustomersReport.rdl",
+      "AssetFile": "reports/ActiveInactiveCustomersReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K7QdvgkJazzDARDBsRgRqcDLAcRTsIbiRkykUkRH3mo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 23:08:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K7QdvgkJazzDARDBsRgRqcDLAcRTsIbiRkykUkRH3mo="
+        }
+      ]
+    },
+    {
+      "Route": "reports/CollectionReport.rdl",
+      "AssetFile": "reports/CollectionReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tSlTm8HlETNOsaUUqzz/uaZ57Aux/6sjmr0zPW2oFHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 21:13:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tSlTm8HlETNOsaUUqzz/uaZ57Aux/6sjmr0zPW2oFHA="
+        }
+      ]
+    },
+    {
+      "Route": "reports/CollectionReport.tihg5e5kqw.rdl",
+      "AssetFile": "reports/CollectionReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tSlTm8HlETNOsaUUqzz/uaZ57Aux/6sjmr0zPW2oFHA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 21:13:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tihg5e5kqw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tSlTm8HlETNOsaUUqzz/uaZ57Aux/6sjmr0zPW2oFHA="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/CollectionReport.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/ComprehensiveSalesReport.h98tm89tpb.rdl",
+      "AssetFile": "reports/ComprehensiveSalesReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"62o4iwxSMX+9i5LDSLXEBULSplTJ7i14St/sq04hjxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 23:39:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h98tm89tpb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-62o4iwxSMX+9i5LDSLXEBULSplTJ7i14St/sq04hjxE="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/ComprehensiveSalesReport.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/ComprehensiveSalesReport.rdl",
+      "AssetFile": "reports/ComprehensiveSalesReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"62o4iwxSMX+9i5LDSLXEBULSplTJ7i14St/sq04hjxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 23:39:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-62o4iwxSMX+9i5LDSLXEBULSplTJ7i14St/sq04hjxE="
+        }
+      ]
+    },
+    {
+      "Route": "reports/CustomersAndItemsCountReport.jx5tsnzku5.rdl",
+      "AssetFile": "reports/CustomersAndItemsCountReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R0t1yI5dGpg3JxggCiMxfjQHhM30Df33bhLV0EaNlgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:43:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jx5tsnzku5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R0t1yI5dGpg3JxggCiMxfjQHhM30Df33bhLV0EaNlgQ="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/CustomersAndItemsCountReport.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/CustomersAndItemsCountReport.rdl",
+      "AssetFile": "reports/CustomersAndItemsCountReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R0t1yI5dGpg3JxggCiMxfjQHhM30Df33bhLV0EaNlgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:43:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R0t1yI5dGpg3JxggCiMxfjQHhM30Df33bhLV0EaNlgQ="
+        }
+      ]
+    },
+    {
+      "Route": "reports/DebtReport.rdl",
+      "AssetFile": "reports/DebtReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86785"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UZPvVQcTcxzUv5Ov4tMQLmwdyRiBZ4jrXTTw8Wm++wg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 23:39:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UZPvVQcTcxzUv5Ov4tMQLmwdyRiBZ4jrXTTw8Wm++wg="
+        }
+      ]
+    },
+    {
+      "Route": "reports/DebtReport.vgtmqtgt3g.rdl",
+      "AssetFile": "reports/DebtReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86785"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UZPvVQcTcxzUv5Ov4tMQLmwdyRiBZ4jrXTTw8Wm++wg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 23:39:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vgtmqtgt3g"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UZPvVQcTcxzUv5Ov4tMQLmwdyRiBZ4jrXTTw8Wm++wg="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/DebtReport.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/DeliveryComplianceReport.gjrwg1p4n5.rdl",
+      "AssetFile": "reports/DeliveryComplianceReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lGiHcvldrMiZBx+fqT8l88syz6bt5IZN4dxHGb/v/4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 23:39:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gjrwg1p4n5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lGiHcvldrMiZBx+fqT8l88syz6bt5IZN4dxHGb/v/4s="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/DeliveryComplianceReport.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/DeliveryComplianceReport.rdl",
+      "AssetFile": "reports/DeliveryComplianceReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75932"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lGiHcvldrMiZBx+fqT8l88syz6bt5IZN4dxHGb/v/4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 23:39:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lGiHcvldrMiZBx+fqT8l88syz6bt5IZN4dxHGb/v/4s="
+        }
+      ]
+    },
+    {
+      "Route": "reports/GoodsReceipt.rdl",
+      "AssetFile": "reports/GoodsReceipt.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aGlnocn2jIJCc7azJyCSQ8+HGb0Jq+5wrVylYOyOy8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 18:38:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aGlnocn2jIJCc7azJyCSQ8+HGb0Jq+5wrVylYOyOy8U="
+        }
+      ]
+    },
+    {
+      "Route": "reports/GoodsReceipt.wu1c50fnlo.rdl",
+      "AssetFile": "reports/GoodsReceipt.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aGlnocn2jIJCc7azJyCSQ8+HGb0Jq+5wrVylYOyOy8U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 18:38:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wu1c50fnlo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aGlnocn2jIJCc7azJyCSQ8+HGb0Jq+5wrVylYOyOy8U="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/GoodsReceipt.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/Invoice.rdl",
+      "AssetFile": "reports/Invoice.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iVH7kpFCH/hTTzUD/Jm0KQPEXVAoUn/YbJly23W2++I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 18:38:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iVH7kpFCH/hTTzUD/Jm0KQPEXVAoUn/YbJly23W2++I="
+        }
+      ]
+    },
+    {
+      "Route": "reports/Invoice.xqopweb5zg.rdl",
+      "AssetFile": "reports/Invoice.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "106669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iVH7kpFCH/hTTzUD/Jm0KQPEXVAoUn/YbJly23W2++I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 18:38:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xqopweb5zg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iVH7kpFCH/hTTzUD/Jm0KQPEXVAoUn/YbJly23W2++I="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/Invoice.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/MonthlyDeliveriesReport.rdl",
+      "AssetFile": "reports/MonthlyDeliveriesReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7QgGEM/fLRWdL+jyI2T5U9s95CA6jfEIIckrSmlVaGc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:43:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7QgGEM/fLRWdL+jyI2T5U9s95CA6jfEIIckrSmlVaGc="
+        }
+      ]
+    },
+    {
+      "Route": "reports/MonthlyDeliveriesReport.zkmvv9bu06.rdl",
+      "AssetFile": "reports/MonthlyDeliveriesReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7QgGEM/fLRWdL+jyI2T5U9s95CA6jfEIIckrSmlVaGc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:43:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zkmvv9bu06"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7QgGEM/fLRWdL+jyI2T5U9s95CA6jfEIIckrSmlVaGc="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/MonthlyDeliveriesReport.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/NewCustomersReport.5tso0oa1dc.rdl",
+      "AssetFile": "reports/NewCustomersReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JxiNauQH3VKlVKvEE3fhgBGEetdZgeu7Mvn2ZlAkbGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:43:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5tso0oa1dc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JxiNauQH3VKlVKvEE3fhgBGEetdZgeu7Mvn2ZlAkbGo="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/NewCustomersReport.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/NewCustomersReport.rdl",
+      "AssetFile": "reports/NewCustomersReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JxiNauQH3VKlVKvEE3fhgBGEetdZgeu7Mvn2ZlAkbGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:43:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JxiNauQH3VKlVKvEE3fhgBGEetdZgeu7Mvn2ZlAkbGo="
+        }
+      ]
+    },
+    {
+      "Route": "reports/PrintRequestSalesOrder.ksxp167l22.rdl",
+      "AssetFile": "reports/PrintRequestSalesOrder.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173786"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VKBKEQoHwD5T+hiO+gk8EH7Mm/MLSyJZqkX5t/kLBGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 17:20:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ksxp167l22"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VKBKEQoHwD5T+hiO+gk8EH7Mm/MLSyJZqkX5t/kLBGs="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/PrintRequestSalesOrder.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/PrintRequestSalesOrder.rdl",
+      "AssetFile": "reports/PrintRequestSalesOrder.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173786"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VKBKEQoHwD5T+hiO+gk8EH7Mm/MLSyJZqkX5t/kLBGs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 17:20:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VKBKEQoHwD5T+hiO+gk8EH7Mm/MLSyJZqkX5t/kLBGs="
+        }
+      ]
+    },
+    {
+      "Route": "reports/PrintSalesOrder - Copy.ifmo015htw.rdl",
+      "AssetFile": "reports/PrintSalesOrder - Copy.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172123"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jrv2Gl6cyUA2YT2aCVTM1sQIdOl+Ac3Jl/iT0s4LwMc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 18:38:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifmo015htw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jrv2Gl6cyUA2YT2aCVTM1sQIdOl+Ac3Jl/iT0s4LwMc="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/PrintSalesOrder - Copy.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/PrintSalesOrder - Copy.rdl",
+      "AssetFile": "reports/PrintSalesOrder - Copy.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "172123"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jrv2Gl6cyUA2YT2aCVTM1sQIdOl+Ac3Jl/iT0s4LwMc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 18:38:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jrv2Gl6cyUA2YT2aCVTM1sQIdOl+Ac3Jl/iT0s4LwMc="
+        }
+      ]
+    },
+    {
+      "Route": "reports/PrintSalesOrder.nz7zldysbr.rdl",
+      "AssetFile": "reports/PrintSalesOrder.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "163429"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M7zzpuOylmJC8bJP74XBayYElaXYi+sVzW9V592zrfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 04:59:45 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nz7zldysbr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M7zzpuOylmJC8bJP74XBayYElaXYi+sVzW9V592zrfw="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/PrintSalesOrder.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/PrintSalesOrder.rdl",
+      "AssetFile": "reports/PrintSalesOrder.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "163429"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M7zzpuOylmJC8bJP74XBayYElaXYi+sVzW9V592zrfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 04:59:45 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M7zzpuOylmJC8bJP74XBayYElaXYi+sVzW9V592zrfw="
+        }
+      ]
+    },
+    {
+      "Route": "reports/PrintStoreReport.r3r2oiuj80.rdl",
+      "AssetFile": "reports/PrintStoreReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tzUTqdVKUf0ynUQdKLrb/n9hqtYsE4ULoYdXeNwc68M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 18:38:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r3r2oiuj80"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tzUTqdVKUf0ynUQdKLrb/n9hqtYsE4ULoYdXeNwc68M="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/PrintStoreReport.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/PrintStoreReport.rdl",
+      "AssetFile": "reports/PrintStoreReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tzUTqdVKUf0ynUQdKLrb/n9hqtYsE4ULoYdXeNwc68M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 18:38:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tzUTqdVKUf0ynUQdKLrb/n9hqtYsE4ULoYdXeNwc68M="
+        }
+      ]
+    },
+    {
+      "Route": "reports/QRCoder.9y0fla3v7z.dll",
+      "AssetFile": "reports/QRCoder.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b8A2KqWamt+7PUp3wiXG0hPTtBMFwGOBOE24dZApTJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 18:38:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9y0fla3v7z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b8A2KqWamt+7PUp3wiXG0hPTtBMFwGOBOE24dZApTJY="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/QRCoder.dll"
+        }
+      ]
+    },
+    {
+      "Route": "reports/QRCoder.dll",
+      "AssetFile": "reports/QRCoder.dll",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "122368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b8A2KqWamt+7PUp3wiXG0hPTtBMFwGOBOE24dZApTJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 18:38:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b8A2KqWamt+7PUp3wiXG0hPTtBMFwGOBOE24dZApTJY="
+        }
+      ]
+    },
+    {
+      "Route": "reports/SalespersonPerformanceReport.rdl",
+      "AssetFile": "reports/SalespersonPerformanceReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3weiEGbljzbmvyX46q+4zrEpP8sGpiDiyBpy1E0CJ/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:43:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3weiEGbljzbmvyX46q+4zrEpP8sGpiDiyBpy1E0CJ/8="
+        }
+      ]
+    },
+    {
+      "Route": "reports/SalespersonPerformanceReport.txqvaly6is.rdl",
+      "AssetFile": "reports/SalespersonPerformanceReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3weiEGbljzbmvyX46q+4zrEpP8sGpiDiyBpy1E0CJ/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:43:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "txqvaly6is"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3weiEGbljzbmvyX46q+4zrEpP8sGpiDiyBpy1E0CJ/8="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/SalespersonPerformanceReport.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/SoldItemsByWarehouseInCartonsReport.1zjmv2amiy.rdl",
+      "AssetFile": "reports/SoldItemsByWarehouseInCartonsReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YwqWnLfm072e198IC4tGecK1ZDWYqG8MuTWR5I0aSNs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:43:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1zjmv2amiy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YwqWnLfm072e198IC4tGecK1ZDWYqG8MuTWR5I0aSNs="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/SoldItemsByWarehouseInCartonsReport.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/SoldItemsByWarehouseInCartonsReport.rdl",
+      "AssetFile": "reports/SoldItemsByWarehouseInCartonsReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YwqWnLfm072e198IC4tGecK1ZDWYqG8MuTWR5I0aSNs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:43:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YwqWnLfm072e198IC4tGecK1ZDWYqG8MuTWR5I0aSNs="
+        }
+      ]
+    },
+    {
+      "Route": "reports/TargetSalseAndCollectionReport.baz4jld151.rdl",
+      "AssetFile": "reports/TargetSalseAndCollectionReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "163612"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xf1qXu/zttfy2m6togHb62BUypLX8OG4hkb0DD6BX6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 04:02:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "baz4jld151"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xf1qXu/zttfy2m6togHb62BUypLX8OG4hkb0DD6BX6Y="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/TargetSalseAndCollectionReport.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/TargetSalseAndCollectionReport.rdl",
+      "AssetFile": "reports/TargetSalseAndCollectionReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "163612"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xf1qXu/zttfy2m6togHb62BUypLX8OG4hkb0DD6BX6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 04:02:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xf1qXu/zttfy2m6togHb62BUypLX8OG4hkb0DD6BX6Y="
+        }
+      ]
+    },
+    {
+      "Route": "reports/TaskTeamDetail.cciimjn4b6.rdl",
+      "AssetFile": "reports/TaskTeamDetail.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67218"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XJ9hmKTaPL5uT/JHtL5LFTzToomy7L+P8HqJyYeu67s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 18:38:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cciimjn4b6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XJ9hmKTaPL5uT/JHtL5LFTzToomy7L+P8HqJyYeu67s="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/TaskTeamDetail.rdl"
+        }
+      ]
+    },
+    {
+      "Route": "reports/TaskTeamDetail.rdl",
+      "AssetFile": "reports/TaskTeamDetail.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67218"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XJ9hmKTaPL5uT/JHtL5LFTzToomy7L+P8HqJyYeu67s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 15 May 2025 18:38:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XJ9hmKTaPL5uT/JHtL5LFTzToomy7L+P8HqJyYeu67s="
+        }
+      ]
+    }
+  ]
+}
