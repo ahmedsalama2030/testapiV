@@ -3,7 +3,7 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "reports/ActiveInactiveCustomersReport.duhabu3am0.rdl",
+      "Route": "reports/ActiveInactiveCustomersReport.6kep6paipi.rdl",
       "AssetFile": "reports/ActiveInactiveCustomersReport.rdl",
       "Selectors": [],
       "ResponseHeaders": [
@@ -17,7 +17,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "103980"
+          "Value": "115131"
         },
         {
           "Name": "Content-Type",
@@ -25,21 +25,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K7QdvgkJazzDARDBsRgRqcDLAcRTsIbiRkykUkRH3mo=\""
+          "Value": "\"CgCCLaMViE7MC/QnUYeljYfghKNJr7Przc6+EsxXwSk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 23:08:37 GMT"
+          "Value": "Tue, 03 Jun 2025 21:59:45 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "duhabu3am0"
+          "Value": "6kep6paipi"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-K7QdvgkJazzDARDBsRgRqcDLAcRTsIbiRkykUkRH3mo="
+          "Value": "sha256-CgCCLaMViE7MC/QnUYeljYfghKNJr7Przc6+EsxXwSk="
         },
         {
           "Name": "label",
@@ -62,7 +62,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "103980"
+          "Value": "115131"
         },
         {
           "Name": "Content-Type",
@@ -70,17 +70,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K7QdvgkJazzDARDBsRgRqcDLAcRTsIbiRkykUkRH3mo=\""
+          "Value": "\"CgCCLaMViE7MC/QnUYeljYfghKNJr7Przc6+EsxXwSk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 23:08:37 GMT"
+          "Value": "Tue, 03 Jun 2025 21:59:45 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-K7QdvgkJazzDARDBsRgRqcDLAcRTsIbiRkykUkRH3mo="
+          "Value": "sha256-CgCCLaMViE7MC/QnUYeljYfghKNJr7Przc6+EsxXwSk="
         }
       ]
     },
@@ -741,7 +741,7 @@
       ]
     },
     {
-      "Route": "reports/NewCustomersReport.5tso0oa1dc.rdl",
+      "Route": "reports/NewCustomersReport.04537lpfo7.rdl",
       "AssetFile": "reports/NewCustomersReport.rdl",
       "Selectors": [],
       "ResponseHeaders": [
@@ -755,7 +755,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "87647"
+          "Value": "98731"
         },
         {
           "Name": "Content-Type",
@@ -763,21 +763,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JxiNauQH3VKlVKvEE3fhgBGEetdZgeu7Mvn2ZlAkbGo=\""
+          "Value": "\"YJjoO6KiOPX998T86FWtCbBjPA37JlrdkVqVciZpgEo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 18:43:53 GMT"
+          "Value": "Tue, 03 Jun 2025 22:19:29 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5tso0oa1dc"
+          "Value": "04537lpfo7"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JxiNauQH3VKlVKvEE3fhgBGEetdZgeu7Mvn2ZlAkbGo="
+          "Value": "sha256-YJjoO6KiOPX998T86FWtCbBjPA37JlrdkVqVciZpgEo="
         },
         {
           "Name": "label",
@@ -800,7 +800,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "87647"
+          "Value": "98731"
         },
         {
           "Name": "Content-Type",
@@ -808,17 +808,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JxiNauQH3VKlVKvEE3fhgBGEetdZgeu7Mvn2ZlAkbGo=\""
+          "Value": "\"YJjoO6KiOPX998T86FWtCbBjPA37JlrdkVqVciZpgEo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 27 May 2025 18:43:53 GMT"
+          "Value": "Tue, 03 Jun 2025 22:19:29 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JxiNauQH3VKlVKvEE3fhgBGEetdZgeu7Mvn2ZlAkbGo="
+          "Value": "sha256-YJjoO6KiOPX998T86FWtCbBjPA37JlrdkVqVciZpgEo="
         }
       ]
     },
