@@ -3,51 +3,6 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "reports/ActiveInactiveCustomersReport.6kep6paipi.rdl",
-      "AssetFile": "reports/ActiveInactiveCustomersReport.rdl",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "115131"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CgCCLaMViE7MC/QnUYeljYfghKNJr7Przc6+EsxXwSk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 21:59:45 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6kep6paipi"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-CgCCLaMViE7MC/QnUYeljYfghKNJr7Przc6+EsxXwSk="
-        },
-        {
-          "Name": "label",
-          "Value": "reports/ActiveInactiveCustomersReport.rdl"
-        }
-      ]
-    },
-    {
       "Route": "reports/ActiveInactiveCustomersReport.rdl",
       "AssetFile": "reports/ActiveInactiveCustomersReport.rdl",
       "Selectors": [],
@@ -62,7 +17,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "115131"
+          "Value": "115074"
         },
         {
           "Name": "Content-Type",
@@ -70,17 +25,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CgCCLaMViE7MC/QnUYeljYfghKNJr7Przc6+EsxXwSk=\""
+          "Value": "\"0Gl7U84HzbuF3g3U/LnhE0JjpJA8aE3IT1f7ctw0C4Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 21:59:45 GMT"
+          "Value": "Wed, 04 Jun 2025 00:18:26 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CgCCLaMViE7MC/QnUYeljYfghKNJr7Przc6+EsxXwSk="
+          "Value": "sha256-0Gl7U84HzbuF3g3U/LnhE0JjpJA8aE3IT1f7ctw0C4Q="
+        }
+      ]
+    },
+    {
+      "Route": "reports/ActiveInactiveCustomersReport.slulc39gan.rdl",
+      "AssetFile": "reports/ActiveInactiveCustomersReport.rdl",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115074"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Gl7U84HzbuF3g3U/LnhE0JjpJA8aE3IT1f7ctw0C4Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 00:18:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "slulc39gan"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Gl7U84HzbuF3g3U/LnhE0JjpJA8aE3IT1f7ctw0C4Q="
+        },
+        {
+          "Name": "label",
+          "Value": "reports/ActiveInactiveCustomersReport.rdl"
         }
       ]
     },
@@ -767,7 +767,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 22:19:29 GMT"
+          "Value": "Wed, 04 Jun 2025 00:18:30 GMT"
         }
       ],
       "EndpointProperties": [
@@ -812,7 +812,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Jun 2025 22:19:29 GMT"
+          "Value": "Wed, 04 Jun 2025 00:18:30 GMT"
         }
       ],
       "EndpointProperties": [

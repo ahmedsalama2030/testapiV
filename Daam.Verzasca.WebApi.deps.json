@@ -2073,7 +2073,8 @@
           "Daam.Verzasca.Infrastructure": "1.0.0",
           "MailKit": "4.8.0",
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
-          "Microsoft.AspNetCore.Http.Features": "2.2.0"
+          "Microsoft.AspNetCore.Http.Features": "2.2.0",
+          "RestSharp": "106.5.4"
         },
         "runtime": {
           "Daam.Verzasca.Integration.dll": {
