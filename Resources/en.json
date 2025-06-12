@@ -176,5 +176,9 @@
   "RollbackManagerNotificationDescription": "Request '{0}' from your team member {1} was rolled back by {3}. Reason: {2}",
   "CustomerStatusChangedTitle": "Customer Status Changed",
   "CustomerStatusChangedMessage": "Customer '{0}' status changed to inactive",
-  "CustomerStatusChangedManagerMessage": "Customer '{0}' (assigned to {1}) status changed to inactive"
+  "CustomerStatusChangedManagerMessage": "Customer '{0}' (assigned to {1}) status changed to inactive",
+
+  "QuarterDateConflict": "Cannot specify both Quarter and DateFrom/DateTo",
+  "QuarterYearRequired": "Year is required when using Quarter",
+  "DateRangeRequired": "Must specify either Quarter+Year or DateFrom+DateTo"
 }

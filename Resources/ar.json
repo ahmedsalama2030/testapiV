@@ -177,5 +177,9 @@
   "RollbackManagerNotificationDescription": "تم استرجاع الطلب '{0}' من عضو فريقك {1} بواسطة {3}. السبب: {2}",
   "CustomerStatusChangedTitle": "تغيير حالة العميل",
   "CustomerStatusChangedMessage": "تم تغيير حالة العميل '{0}' إلى غير نشط",
-  "CustomerStatusChangedManagerMessage": "العميل '{0}' (المخصص لـ {1}) تم تغيير حالته إلى غير نشط"
+  "CustomerStatusChangedManagerMessage": "العميل '{0}' (المخصص لـ {1}) تم تغيير حالته إلى غير نشط",
+
+  "QuarterDateConflict": "لا يمكن تحديد الربع ونطاق التاريخ معاً",
+  "QuarterYearRequired": "السنة مطلوبة عند استخدام الربع",
+  "DateRangeRequired": "يجب تحديد إما الربع+السنة أو تاريخ البداية والنهاية"
 }
