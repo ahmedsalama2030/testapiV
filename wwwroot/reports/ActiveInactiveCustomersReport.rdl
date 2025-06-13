@@ -1,26 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Report MustUnderstand="df" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns:df="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition/defaultfontfamily" xmlns:am="http://schemas.microsoft.com/sqlserver/reporting/authoringmetadata">
-  <am:AuthoringMetadata>
-    <am:CreatedBy>
-      <am:Name>MSRB</am:Name>
-      <am:Version>15.0.20283.0</am:Version>
-    </am:CreatedBy>
-    <am:UpdatedBy>
-      <am:Name>MSRB</am:Name>
-      <am:Version>15.0.20283.0</am:Version>
-    </am:UpdatedBy>
-    <am:LastModifiedTimestamp>2025-05-27T21:30:16.1252626Z</am:LastModifiedTimestamp>
-  </am:AuthoringMetadata>
+<Report MustUnderstand="df" xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner" xmlns:df="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition/defaultfontfamily">
+  <rd:ReportUnitType>Cm</rd:ReportUnitType>
+  <rd:ReportID>f80eccf7-53bd-40f1-a59e-21b29128ca47</rd:ReportID>
   <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
   <AutoRefresh>0</AutoRefresh>
   <DataSources>
     <DataSource Name="DsReport">
+      <rd:SecurityType>Integrated</rd:SecurityType>
       <ConnectionProperties>
         <DataProvider>SQL</DataProvider>
         <ConnectString>/* Local Connection */</ConnectString>
         <IntegratedSecurity>true</IntegratedSecurity>
       </ConnectionProperties>
-      <rd:SecurityType>Integrated</rd:SecurityType>
       <rd:DataSourceID>ac7feb59-3453-4693-9471-611cb53b55a7</rd:DataSourceID>
     </DataSource>
   </DataSources>
@@ -32,36 +23,36 @@
       </Query>
       <Fields>
         <Field Name="Id">
-          <DataField>Id</DataField>
           <rd:UserDefined>true</rd:UserDefined>
+          <DataField>Id</DataField>
         </Field>
         <Field Name="CustomerName">
-          <DataField>CustomerName</DataField>
           <rd:UserDefined>true</rd:UserDefined>
+          <DataField>CustomerName</DataField>
         </Field>
         <Field Name="IsActive">
-          <DataField>IsActive</DataField>
           <rd:UserDefined>true</rd:UserDefined>
+          <DataField>IsActive</DataField>
         </Field>
         <Field Name="InvoiceCount">
-          <DataField>InvoiceCount</DataField>
           <rd:UserDefined>true</rd:UserDefined>
+          <DataField>InvoiceCount</DataField>
         </Field>
         <Field Name="TotalSales">
-          <DataField>TotalSales</DataField>
           <rd:UserDefined>true</rd:UserDefined>
+          <DataField>TotalSales</DataField>
         </Field>
         <Field Name="TotalDebt">
-          <DataField>TotalDebt</DataField>
           <rd:UserDefined>true</rd:UserDefined>
+          <DataField>TotalDebt</DataField>
         </Field>
         <Field Name="RemainingDebt">
-          <DataField>RemainingDebt</DataField>
           <rd:UserDefined>true</rd:UserDefined>
+          <DataField>RemainingDebt</DataField>
         </Field>
         <Field Name="LastInvoiceDate">
-          <DataField>LastInvoiceDate</DataField>
           <rd:UserDefined>true</rd:UserDefined>
+          <DataField>LastInvoiceDate</DataField>
         </Field>
       </Fields>
     </DataSet>
@@ -97,6 +88,9 @@
                 <TablixColumn>
                   <Width>1.6073cm</Width>
                 </TablixColumn>
+                <TablixColumn>
+                  <Width>1.20883cm</Width>
+                </TablixColumn>
               </TablixColumns>
               <TablixRows>
                 <TablixRow>
@@ -105,6 +99,7 @@
                     <TablixCell>
                       <CellContents>
                         <Textbox Name="Textbox62">
+                          <rd:DefaultName>Textbox62</rd:DefaultName>
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
@@ -123,7 +118,6 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>Textbox62</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -161,6 +155,7 @@
                     <TablixCell>
                       <CellContents>
                         <Textbox Name="Textbox34">
+                          <rd:DefaultName>Textbox34</rd:DefaultName>
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
@@ -179,7 +174,6 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>Textbox34</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -217,6 +211,7 @@
                     <TablixCell>
                       <CellContents>
                         <Textbox Name="Textbox25">
+                          <rd:DefaultName>Textbox25</rd:DefaultName>
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
@@ -235,7 +230,6 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>Textbox25</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -273,6 +267,7 @@
                     <TablixCell>
                       <CellContents>
                         <Textbox Name="Textbox1">
+                          <rd:DefaultName>Textbox1</rd:DefaultName>
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
@@ -291,7 +286,6 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>Textbox1</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -329,6 +323,7 @@
                     <TablixCell>
                       <CellContents>
                         <Textbox Name="Textbox32">
+                          <rd:DefaultName>Textbox32</rd:DefaultName>
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
@@ -347,7 +342,6 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>Textbox32</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -385,13 +379,14 @@
                     <TablixCell>
                       <CellContents>
                         <Textbox Name="Textbox15">
+                          <rd:DefaultName>Textbox15</rd:DefaultName>
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>نشط</Value>
+                                  <Value>الحالة</Value>
                                   <Style>
                                     <FontFamily>Cairo Medium</FontFamily>
                                     <Color>White</Color>
@@ -403,7 +398,6 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>Textbox15</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -441,6 +435,7 @@
                     <TablixCell>
                       <CellContents>
                         <Textbox Name="Textbox18">
+                          <rd:DefaultName>Textbox18</rd:DefaultName>
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
@@ -459,7 +454,6 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>Textbox18</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -497,6 +491,7 @@
                     <TablixCell>
                       <CellContents>
                         <Textbox Name="Textbox6">
+                          <rd:DefaultName>Textbox6</rd:DefaultName>
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
@@ -515,7 +510,62 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>Textbox6</rd:DefaultName>
+                          <Style>
+                            <Border>
+                              <Style>Solid</Style>
+                            </Border>
+                            <TopBorder>
+                              <Color>Black</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>Black</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>Black</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </LeftBorder>
+                            <RightBorder>
+                              <Color>Black</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </RightBorder>
+                            <BackgroundColor>#4f5869</BackgroundColor>
+                            <VerticalAlign>Middle</VerticalAlign>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="Textbox3">
+                          <rd:DefaultName>Textbox3</rd:DefaultName>
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>#</Value>
+                                  <Style>
+                                    <FontFamily>Cairo Medium</FontFamily>
+                                    <Color>White</Color>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Center</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -553,19 +603,23 @@
                   </TablixCells>
                 </TablixRow>
                 <TablixRow>
-                  <Height>0.61058cm</Height>
+                  <Height>0.6cm</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
-                        <Textbox Name="LastInvoiceDate">
+                        <Textbox Name="Textbox20">
+                          <rd:DefaultName>Textbox20</rd:DefaultName>
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=Fields!LastInvoiceDate.Value</Value>
-                                  <Style />
+                                  <Value>=IIF(Fields!IsActive.Value, "نشط", "غير نشط")</Value>
+                                  <Style>
+                                    <FontSize>14pt</FontSize>
+                                    <FontWeight>Bold</FontWeight>
+                                  </Style>
                                 </TextRun>
                               </TextRuns>
                               <Style>
@@ -573,7 +627,75 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
+                          <Style>
+                            <Border>
+                              <Style>Solid</Style>
+                            </Border>
+                            <TopBorder>
+                              <Color>Black</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>Black</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>Black</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </LeftBorder>
+                            <RightBorder>
+                              <Color>Black</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </RightBorder>
+                            <BackgroundColor>LightGrey</BackgroundColor>
+                            <VerticalAlign>Middle</VerticalAlign>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                        <ColSpan>9</ColSpan>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell />
+                    <TablixCell />
+                    <TablixCell />
+                    <TablixCell />
+                    <TablixCell />
+                    <TablixCell />
+                    <TablixCell />
+                    <TablixCell />
+                  </TablixCells>
+                </TablixRow>
+                <TablixRow>
+                  <Height>0.61058cm</Height>
+                  <TablixCells>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="LastInvoiceDate">
                           <rd:DefaultName>LastInvoiceDate</rd:DefaultName>
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>=Fields!LastInvoiceDate.Value</Value>
+                                  <Style>
+                                    <Format>dd/MM/yyyy</Format>
+                                  </Style>
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Center</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -610,6 +732,7 @@
                     <TablixCell>
                       <CellContents>
                         <Textbox Name="RemainingDebt">
+                          <rd:DefaultName>RemainingDebt</rd:DefaultName>
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
@@ -625,7 +748,6 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>RemainingDebt</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -662,6 +784,7 @@
                     <TablixCell>
                       <CellContents>
                         <Textbox Name="TotalDebt">
+                          <rd:DefaultName>TotalDebt</rd:DefaultName>
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
@@ -679,7 +802,6 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>TotalDebt</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -716,6 +838,7 @@
                     <TablixCell>
                       <CellContents>
                         <Textbox Name="TotalSales">
+                          <rd:DefaultName>TotalSales</rd:DefaultName>
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
@@ -733,7 +856,6 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>TotalSales</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -770,6 +892,7 @@
                     <TablixCell>
                       <CellContents>
                         <Textbox Name="InvoiceCount">
+                          <rd:DefaultName>InvoiceCount</rd:DefaultName>
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
@@ -787,7 +910,6 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>InvoiceCount</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -824,13 +946,14 @@
                     <TablixCell>
                       <CellContents>
                         <Textbox Name="IsActive">
+                          <rd:DefaultName>IsActive</rd:DefaultName>
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=Fields!IsActive.Value</Value>
+                                  <Value>=IIF(Fields!IsActive.Value, "نشط", "غير نشط")</Value>
                                   <Style />
                                 </TextRun>
                               </TextRuns>
@@ -839,7 +962,6 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>IsActive</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -876,6 +998,7 @@
                     <TablixCell>
                       <CellContents>
                         <Textbox Name="CustomerName">
+                          <rd:DefaultName>CustomerName</rd:DefaultName>
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
@@ -891,7 +1014,6 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>CustomerName</rd:DefaultName>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -928,6 +1050,7 @@
                     <TablixCell>
                       <CellContents>
                         <Textbox Name="Id">
+                          <rd:DefaultName>Id</rd:DefaultName>
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
@@ -943,7 +1066,58 @@
                               </Style>
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>Id</rd:DefaultName>
+                          <Style>
+                            <Border>
+                              <Style>Solid</Style>
+                            </Border>
+                            <TopBorder>
+                              <Color>Black</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </TopBorder>
+                            <BottomBorder>
+                              <Color>Black</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </BottomBorder>
+                            <LeftBorder>
+                              <Color>Black</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </LeftBorder>
+                            <RightBorder>
+                              <Color>Black</Color>
+                              <Style>Solid</Style>
+                              <Width>1pt</Width>
+                            </RightBorder>
+                            <VerticalAlign>Middle</VerticalAlign>
+                            <PaddingLeft>2pt</PaddingLeft>
+                            <PaddingRight>2pt</PaddingRight>
+                            <PaddingTop>2pt</PaddingTop>
+                            <PaddingBottom>2pt</PaddingBottom>
+                          </Style>
+                        </Textbox>
+                      </CellContents>
+                    </TablixCell>
+                    <TablixCell>
+                      <CellContents>
+                        <Textbox Name="Textbox4">
+                          <rd:DefaultName>Textbox4</rd:DefaultName>
+                          <CanGrow>true</CanGrow>
+                          <KeepTogether>true</KeepTogether>
+                          <Paragraphs>
+                            <Paragraph>
+                              <TextRuns>
+                                <TextRun>
+                                  <Value>=RowNumber("DsReport")</Value>
+                                  <Style />
+                                </TextRun>
+                              </TextRuns>
+                              <Style>
+                                <TextAlign>Center</TextAlign>
+                              </Style>
+                            </Paragraph>
+                          </Paragraphs>
                           <Style>
                             <Border>
                               <Style>Solid</Style>
@@ -991,23 +1165,56 @@
                 <TablixMember />
                 <TablixMember />
                 <TablixMember />
+                <TablixMember />
               </TablixMembers>
             </TablixColumnHierarchy>
             <TablixRowHierarchy>
               <TablixMembers>
                 <TablixMember>
-                  <KeepWithGroup>After</KeepWithGroup>
+                  <RepeatOnNewPage>true</RepeatOnNewPage>
+                  <KeepTogether>true</KeepTogether>
                 </TablixMember>
                 <TablixMember>
-                  <Group Name="Details" />
+                  <Group Name="IsActive">
+                    <GroupExpressions>
+                      <GroupExpression>=Fields!IsActive.Value</GroupExpression>
+                    </GroupExpressions>
+                  </Group>
+                  <SortExpressions>
+                    <SortExpression>
+                      <Value>=Fields!IsActive.Value</Value>
+                    </SortExpression>
+                  </SortExpressions>
+                  <TablixMembers>
+                    <TablixMember>
+                      <KeepWithGroup>After</KeepWithGroup>
+                    </TablixMember>
+                    <TablixMember>
+                      <Group Name="Details" />
+                      <TablixMembers>
+                        <TablixMember />
+                      </TablixMembers>
+                    </TablixMember>
+                  </TablixMembers>
+                  <KeepTogether>true</KeepTogether>
                 </TablixMember>
               </TablixMembers>
             </TablixRowHierarchy>
+            <RepeatColumnHeaders>true</RepeatColumnHeaders>
+            <RepeatRowHeaders>true</RepeatRowHeaders>
+            <FixedColumnHeaders>true</FixedColumnHeaders>
+            <FixedRowHeaders>true</FixedRowHeaders>
+            <KeepTogether>true</KeepTogether>
             <DataSetName>DsReport</DataSetName>
+            <SortExpressions>
+              <SortExpression>
+                <Value>=Fields!IsActive.Value</Value>
+              </SortExpression>
+            </SortExpressions>
             <Top>2.87645cm</Top>
-            <Left>1.07348cm</Left>
-            <Height>1.58099cm</Height>
-            <Width>19.0176cm</Width>
+            <Left>0.33171cm</Left>
+            <Height>2.18099cm</Height>
+            <Width>20.22643cm</Width>
             <Style>
               <Border>
                 <Style>Solid</Style>
@@ -1035,6 +1242,7 @@
             </Style>
           </Tablix>
           <Textbox Name="Textbox2">
+            <rd:DefaultName>Textbox2</rd:DefaultName>
             <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
@@ -1057,7 +1265,6 @@
                 </Style>
               </Paragraph>
             </Paragraphs>
-            <rd:DefaultName>Textbox2</rd:DefaultName>
             <Top>0.28081cm</Top>
             <Left>9.35659cm</Left>
             <Height>1.34111cm</Height>
@@ -1079,9 +1286,9 @@
             <Value>logo2</Value>
             <Sizing>FitProportional</Sizing>
             <Top>0.28081cm</Top>
-            <Left>1.07348cm</Left>
+            <Left>0.33171cm</Left>
             <Height>1.74159cm</Height>
-            <Width>4.02355cm</Width>
+            <Width>4.76532cm</Width>
             <ZIndex>2</ZIndex>
             <Style>
               <Border>
@@ -1090,6 +1297,7 @@
             </Style>
           </Image>
           <Textbox Name="Textbox33">
+            <rd:DefaultName>Textbox33</rd:DefaultName>
             <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
             <Paragraphs>
@@ -1103,9 +1311,8 @@
                 <Style />
               </Paragraph>
             </Paragraphs>
-            <rd:DefaultName>Textbox33</rd:DefaultName>
-            <Top>4.96656cm</Top>
-            <Left>1.07348cm</Left>
+            <Top>5.43223cm</Top>
+            <Left>6.80965cm</Left>
             <Height>0.6cm</Height>
             <Width>6.47933cm</Width>
             <ZIndex>3</ZIndex>
@@ -1119,8 +1326,45 @@
               <PaddingBottom>2pt</PaddingBottom>
             </Style>
           </Textbox>
+          <Textbox Name="Textbox8">
+            <rd:DefaultName>Textbox8</rd:DefaultName>
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>تقرير العملاء النشطة والغير نشطة</Value>
+                    <Style>
+                      <FontSize>14pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                      <TextDecoration>Underline</TextDecoration>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Center</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <Top>1.72775cm</Top>
+            <Left>6.17465cm</Left>
+            <Height>0.6cm</Height>
+            <Width>9.08528cm</Width>
+            <ZIndex>4</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <VerticalAlign>Middle</VerticalAlign>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
         </ReportItems>
-        <Height>61.23946mm</Height>
+        <Height>61.6628mm</Height>
         <Style>
           <Border>
             <Style>None</Style>
@@ -1128,7 +1372,7 @@
           <BackgroundColor>White</BackgroundColor>
         </Style>
       </Body>
-      <Width>212.78748mm</Width>
+      <Width>207.72145mm</Width>
       <Page>
         <PageHeight>29.7cm</PageHeight>
         <PageWidth>21cm</PageWidth>
@@ -1216,6 +1460,4 @@ rNiuVsoIuptox2mhfTZSsADjpCcBKult9utN754//nsx8+Xj7yueM0hO0VWx960vDOhmBjEcVsvUBn/a
   <CodeModules>
     <CodeModule>QRCoder, Version=1.4.3.0, Culture=neutral, PublicKeyToken=c4ed5b9ae8358a28</CodeModule>
   </CodeModules>
-  <rd:ReportUnitType>Cm</rd:ReportUnitType>
-  <rd:ReportID>f80eccf7-53bd-40f1-a59e-21b29128ca47</rd:ReportID>
 </Report>
